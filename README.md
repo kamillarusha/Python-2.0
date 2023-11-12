@@ -1,5 +1,5 @@
 # Python 2.0 
-Calorie Counter
+# Calorie Counter
 This Python program allows users to select meals from a menu, calculate the total calories of their order, and handle exceptions for large orders exceeding 2000 calories.
 
 Features
